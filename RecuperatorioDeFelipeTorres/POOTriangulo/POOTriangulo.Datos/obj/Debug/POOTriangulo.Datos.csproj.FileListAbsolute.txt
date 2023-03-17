@@ -1,0 +1,9 @@
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\bin\Debug\POOTriangulo.Datos.dll
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\bin\Debug\POOTriangulo.Datos.pdb
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\bin\Debug\POOTriangulo.Entidades.dll
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\bin\Debug\POOTriangulo.Entidades.pdb
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\obj\Debug\POOTriangulo.Datos.csproj.AssemblyReference.cache
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\obj\Debug\POOTriangulo.Datos.csproj.CoreCompileInputs.cache
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\obj\Debug\POOTriangulo.Datos.csproj.CopyComplete
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\obj\Debug\POOTriangulo.Datos.dll
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Datos\obj\Debug\POOTriangulo.Datos.pdb

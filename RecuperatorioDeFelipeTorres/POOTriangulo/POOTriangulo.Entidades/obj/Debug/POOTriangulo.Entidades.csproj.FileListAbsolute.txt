@@ -1,0 +1,6 @@
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Entidades\bin\Debug\POOTriangulo.Entidades.dll
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Entidades\bin\Debug\POOTriangulo.Entidades.pdb
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Entidades\obj\Debug\POOTriangulo.Entidades.csproj.AssemblyReference.cache
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Entidades\obj\Debug\POOTriangulo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Entidades\obj\Debug\POOTriangulo.Entidades.dll
+C:\Users\otsir\Desktop\RecuperatorioDeFelipeTorres\POOTriangulo\POOTriangulo.Entidades\obj\Debug\POOTriangulo.Entidades.pdb
